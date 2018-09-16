@@ -3,6 +3,7 @@ PitchBlack is a event curtain drapping company in Dubai. They would like a simpl
 
 ## Currently Working On:
  * Coundln't use the free services as the domain was already purchase so instead purchase the $10 a month option. Found that a lot of the themes revolve around blogging and all I wanted to create was a simple about and contact website. I thought I would have some more options to style but can't quite figure out how their CSS setup works yet. Got somethin up and going so now waiting on the copy from the client then we will touch up from there.
+* Basic strucutre working. About Us page and also a contact us page. Looking into getting a direct instagram feed in order to display there pcitures on the website. Going to  
  
 ### pitchblack.ae
 
